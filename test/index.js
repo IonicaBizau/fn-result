@@ -1,3 +1,5 @@
+"use strict";
+
 const tester = require("tester")
     , fnResult = require("..")
     ;

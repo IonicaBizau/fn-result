@@ -41,5 +41,8 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/fn-result/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/fn-result#readme"
+  "homepage": "https://github.com/IonicaBizau/fn-result#readme",
+  "dependencies": {
+    "assured": "^1.0.2"
+  }
 }

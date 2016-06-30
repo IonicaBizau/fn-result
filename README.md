@@ -1,7 +1,7 @@
 
 # fn-result
 
- [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![AMA](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/fn-result.svg)](https://www.npmjs.com/package/fn-result) [![Downloads](https://img.shields.io/npm/dt/fn-result.svg)](https://www.npmjs.com/package/fn-result) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
+ [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![AMA](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Travis](https://img.shields.io/travis/IonicaBizau/fn-result.svg)](https://travis-ci.org/IonicaBizau/fn-result/) [![Version](https://img.shields.io/npm/v/fn-result.svg)](https://www.npmjs.com/package/fn-result) [![Downloads](https://img.shields.io/npm/dt/fn-result.svg)](https://www.npmjs.com/package/fn-result) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Take an (a)sync function result and pass it forward.
 

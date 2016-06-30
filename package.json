@@ -44,5 +44,8 @@
   "homepage": "https://github.com/IonicaBizau/fn-result#readme",
   "dependencies": {
     "assured": "^1.0.2"
+  },
+  "devDependencies": {
+    "tester": "^1.3.3"
   }
 }

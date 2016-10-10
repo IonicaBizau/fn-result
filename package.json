@@ -15,7 +15,7 @@
     "forward"
   ],
   "license": "MIT",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "lib/index.js",
   "scripts": {
     "test": "node test"
@@ -30,7 +30,6 @@
     "resources/",
     "menu/",
     "scripts/",
-    "build/",
     "cli.js",
     "index.js"
   ],

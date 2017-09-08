@@ -15,7 +15,7 @@
     "forward"
   ],
   "license": "MIT",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "main": "lib/index.js",
   "scripts": {
     "test": "node test"
@@ -31,7 +31,10 @@
     "resources/",
     "menu/",
     "cli.js",
-    "index.js"
+    "index.js",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
   ],
   "repository": {
     "type": "git",
